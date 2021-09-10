@@ -40,8 +40,7 @@ Hi I'm Carla! I'm a **QA Engineer** based in the Dominican Republic. I'm passion
 <a href="https://github.com/carlagomez/github-readme-stats">
 <img width="360" height="auto" align="left" alt="Carla's top langs" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlaGomez&show_icons=true&theme=algolia&count_private=true" /></a>      
-
-## 
+ 
 <a href="https://github.com/CarlaGomez?tab=repositories">
 <img width="500" height="auto" alt="Carla's github stats" 
 src="https://github-readme-stats.vercel.app/api?username=CarlaGomez&show_icons=true&theme=algolia&count_private=true" /></a>
