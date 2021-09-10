@@ -3,7 +3,7 @@
 Hi I'm Carla! I'm a **QA Engineer** based in the Dominican Republic. I'm passionate about everything related with quality assurance and software testing, I'm a Certified Tester by ISTQB. I love to learn about everything and everyone and I trully believe that collaboration and team work are the keys to the success of a product and project. 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-Carla%20Gomez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carla-gómez-53a43b14)
+[![Linkedin](https://img.shields.io/badge/-Carla%20Gomez-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carla-g%C3%B3mez-53a43b14b)
 [![Instagram](https://img.shields.io/badge/-carlamgomezp-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/carlamgomezp)
 [![Gmail](https://img.shields.io/badge/-carlagomezp1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlagomezp1@gmail.com)
 
